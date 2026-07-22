@@ -4,6 +4,7 @@ import Footer from "./components/Footer";
 import Home from "./pages/Home";
 import Stakeholders from "./pages/Stakeholders";
 import HowItWorks from "./pages/HowItWorks";
+import EndUser from "./pages/EndUser";
 import Developers from "./pages/Developers";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
@@ -18,6 +19,7 @@ function App() {
             <Route path="/" element={<Home />} />
             <Route path="/stakeholders" element={<Stakeholders />} />
             <Route path="/how-it-works" element={<HowItWorks />} />
+            <Route path="/end-user" element={<EndUser />} />
             <Route path="/developers" element={<Developers />} />
             <Route path="/about" element={<About />} />
             <Route path="/contact" element={<Contact />} />

@@ -9,6 +9,7 @@ const navLinks = [
   { to: "/", label: "Home" },
   { to: "/stakeholders", label: "Stakeholders" },
   { to: "/how-it-works", label: "How It Works" },
+  { to: "/end-user", label: "End User" },
   { to: "/developers", label: "Developers" },
   { to: "/about", label: "About" },
   { to: "/contact", label: "Contact" },

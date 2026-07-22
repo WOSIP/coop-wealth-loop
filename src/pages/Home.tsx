@@ -72,12 +72,11 @@ export default function Home() {
                 Trusted by 2,000+ cooperatives
               </div>
               <h1 className="text-4xl sm:text-5xl lg:text-6xl xl:text-7xl font-bold tracking-tight text-foreground leading-[1.1]">
-                Enriching community{" "}
-                <br className="hidden sm:block" />
-                members by{" "}
-                <span className="text-gradient-gold">Empowering</span>
+                Empowering{" "}
+                <span className="text-gradient-gold">Cooperatives</span>
                 <br />
-                <span className="text-gradient-gold">cooperatives</span>
+                Enriching{" "}
+                <span className="text-gradient-gold">Communities</span>
               </h1>
               <p className="mt-6 text-lg text-muted-foreground max-w-lg leading-relaxed">
                 Hpass Wealth OS is the all-in-one platform for modern cooperatives.
